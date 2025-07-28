@@ -1,2 +1,2 @@
 # Neo4j_professional
-The Neo4j Certified Professional Exam is a free, 60-minute online test with \~80 questions on Cypher, data modeling, and Neo4j basics. It's open-book and validates your skills in graph database concepts and usage.
+Completed the Neo4j Certified Professional exam, gaining hands-on experience with Cypher, graph data modeling, and querying techniques. Learned to design and analyze graph-based data efficiently using Neo4j. Built and queried graph databases, enhancing my understanding of connected data and real-world graph applications.
